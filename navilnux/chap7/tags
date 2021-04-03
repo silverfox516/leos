@@ -1,0 +1,645 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/igsong/work/leos/navilnux/chap6/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/p5.9.20201206.0/
+ACK	include/stdio.h	/^#define        ACK /;"	d
+Address	include/pxa255.h	/^typedef void            *Address ;$/;"	t	typeref:typename:void *
+BAUD_115200	include/serial.h	/^	BAUD_115200  =   8 ,$/;"	e	enum:__anon5287b92e0103
+BAUD_19200	include/serial.h	/^	BAUD_19200   =  48 ,$/;"	e	enum:__anon5287b92e0103
+BAUD_230400	include/serial.h	/^	BAUD_230400  =   4 ,$/;"	e	enum:__anon5287b92e0103
+BAUD_307200	include/serial.h	/^	BAUD_307200  =   3 ,$/;"	e	enum:__anon5287b92e0103
+BAUD_38400	include/serial.h	/^	BAUD_38400   =  24 ,$/;"	e	enum:__anon5287b92e0103
+BAUD_460800	include/serial.h	/^	BAUD_460800  =   2 ,$/;"	e	enum:__anon5287b92e0103
+BAUD_4800	include/serial.h	/^	BAUD_4800    = 192 ,$/;"	e	enum:__anon5287b92e0103
+BAUD_57600	include/serial.h	/^	BAUD_57600   =  16 ,$/;"	e	enum:__anon5287b92e0103
+BAUD_921600	include/serial.h	/^	BAUD_921600  =   1$/;"	e	enum:__anon5287b92e0103
+BAUD_9600	include/serial.h	/^	BAUD_9600    =  96 ,$/;"	e	enum:__anon5287b92e0103
+BEL	include/stdio.h	/^#define        BEL /;"	d
+BOOL	include/stdio.h	/^typedef unsigned int BOOL;$/;"	t	typeref:typename:unsigned int
+BS	include/stdio.h	/^#define        BS /;"	d
+BTDLH	include/pxa255.h	/^#define BTDLH	/;"	d
+BTDLL	include/pxa255.h	/^#define BTDLL	/;"	d
+BTFCR	include/pxa255.h	/^#define BTFCR	/;"	d
+BTIER	include/pxa255.h	/^#define BTIER	/;"	d
+BTIIR	include/pxa255.h	/^#define BTIIR	/;"	d
+BTISR	include/pxa255.h	/^#define BTISR	/;"	d
+BTLCR	include/pxa255.h	/^#define BTLCR	/;"	d
+BTLSR	include/pxa255.h	/^#define BTLSR	/;"	d
+BTMCR	include/pxa255.h	/^#define BTMCR	/;"	d
+BTMSR	include/pxa255.h	/^#define BTMSR	/;"	d
+BTRBR	include/pxa255.h	/^#define BTRBR	/;"	d
+BTSPR	include/pxa255.h	/^#define BTSPR	/;"	d
+BTTHR	include/pxa255.h	/^#define BTTHR	/;"	d
+BTUART	include/pxa255.h	/^#define BTUART	/;"	d
+Byte	include/pxa255.h	/^typedef unsigned char   Byte;$/;"	t	typeref:typename:unsigned char
+CAN	include/stdio.h	/^#define        CAN /;"	d
+CC	Makefile	/^CC = arm-linux-gcc$/;"	m
+CFLAGS	Makefile	/^CFLAGS	= -nostdinc -I. -I.\/include$/;"	m
+CKEN	include/pxa255.h	/^#define CKEN	/;"	d
+CKEN_AC97	include/pxa255.h	/^#define	CKEN_AC97	/;"	d
+CKEN_BTUART	include/pxa255.h	/^#define	CKEN_BTUART	/;"	d
+CKEN_FFUART	include/pxa255.h	/^#define	CKEN_FFUART	/;"	d
+CKEN_FICP	include/pxa255.h	/^#define	CKEN_FICP	/;"	d
+CKEN_HWUART	include/pxa255.h	/^#define	CKEN_HWUART	/;"	d
+CKEN_I2C	include/pxa255.h	/^#define	CKEN_I2C	/;"	d
+CKEN_I2S	include/pxa255.h	/^#define	CKEN_I2S	/;"	d
+CKEN_LCD	include/pxa255.h	/^#define	CKEN_LCD	/;"	d
+CKEN_MMC	include/pxa255.h	/^#define	CKEN_MMC	/;"	d
+CKEN_NSSP	include/pxa255.h	/^#define	CKEN_NSSP	/;"	d
+CKEN_PWM0	include/pxa255.h	/^#define	CKEN_PWM0	/;"	d
+CKEN_PWM1	include/pxa255.h	/^#define	CKEN_PWM1	/;"	d
+CKEN_SSP	include/pxa255.h	/^#define	CKEN_SSP	/;"	d
+CKEN_STUART	include/pxa255.h	/^#define	CKEN_STUART	/;"	d
+CKEN_USB	include/pxa255.h	/^#define	CKEN_USB	/;"	d
+CR	include/stdio.h	/^#define        CR /;"	d
+DC1	include/stdio.h	/^#define        DC1 /;"	d
+DC2	include/stdio.h	/^#define        DC2 /;"	d
+DC3	include/stdio.h	/^#define        DC3 /;"	d
+DC4	include/stdio.h	/^#define        DC4 /;"	d
+DEL	include/stdio.h	/^#define        DEL /;"	d
+DLE	include/stdio.h	/^#define        DLE /;"	d
+EM	include/stdio.h	/^#define        EM /;"	d
+ENQ	include/stdio.h	/^#define        ENQ /;"	d
+EOT	include/stdio.h	/^#define        EOT /;"	d
+ESC	include/stdio.h	/^#define        ESC /;"	d
+ETB	include/stdio.h	/^#define        ETB /;"	d
+ETX	include/stdio.h	/^#define        ETX /;"	d
+ExcpHndlr	include/pxa255.h	/^typedef void            (*ExcpHndlr) (void) ;$/;"	t	typeref:typename:void (*)(void)
+F1stBit	include/pxa255.h	/^#define F1stBit(/;"	d
+FALSE	include/stdio.h	/^#define FALSE /;"	d
+FAlnMsk	include/pxa255.h	/^#define FAlnMsk(/;"	d
+FCR_ITL1	include/pxa255.h	/^#define FCR_ITL1	/;"	d
+FCR_ITL2	include/pxa255.h	/^#define FCR_ITL2	/;"	d
+FCR_ITL_1	include/pxa255.h	/^#define FCR_ITL_1	/;"	d
+FCR_ITL_16	include/pxa255.h	/^#define FCR_ITL_16	/;"	d
+FCR_ITL_32	include/pxa255.h	/^#define FCR_ITL_32	/;"	d
+FCR_ITL_8	include/pxa255.h	/^#define FCR_ITL_8	/;"	d
+FCR_RESETRF	include/pxa255.h	/^#define FCR_RESETRF	/;"	d
+FCR_RESETTF	include/pxa255.h	/^#define FCR_RESETTF	/;"	d
+FCR_TRFIFOE	include/pxa255.h	/^#define FCR_TRFIFOE	/;"	d
+FF	include/stdio.h	/^#define        FF /;"	d
+FFDLH	include/pxa255.h	/^#define FFDLH	/;"	d
+FFDLL	include/pxa255.h	/^#define FFDLL	/;"	d
+FFFCR	include/pxa255.h	/^#define FFFCR	/;"	d
+FFIER	include/pxa255.h	/^#define FFIER	/;"	d
+FFIIR	include/pxa255.h	/^#define FFIIR	/;"	d
+FFISR	include/pxa255.h	/^#define FFISR	/;"	d
+FFLCR	include/pxa255.h	/^#define FFLCR	/;"	d
+FFLSR	include/pxa255.h	/^#define FFLSR	/;"	d
+FFMCR	include/pxa255.h	/^#define FFMCR	/;"	d
+FFMSR	include/pxa255.h	/^#define FFMSR	/;"	d
+FFRBR	include/pxa255.h	/^#define FFRBR	/;"	d
+FFSPR	include/pxa255.h	/^#define FFSPR	/;"	d
+FFTHR	include/pxa255.h	/^#define FFTHR	/;"	d
+FFUART	include/pxa255.h	/^#define FFUART	/;"	d
+FMsk	include/pxa255.h	/^#define FMsk(/;"	d
+FS	include/stdio.h	/^#define        FS /;"	d
+FShft	include/pxa255.h	/^#define FShft(/;"	d
+FSize	include/pxa255.h	/^#define FSize(/;"	d
+Fld	include/pxa255.h	/^#define Fld(/;"	d
+FreeTimer	time.c	/^void    FreeTimer( unsigned char bTimer )$/;"	f	typeref:typename:void
+GAFR	include/pxa255.h	/^#define GAFR(/;"	d
+GAFR0_L	include/pxa255.h	/^#define GAFR0_L	/;"	d
+GAFR0_U	include/pxa255.h	/^#define GAFR0_U	/;"	d
+GAFR1_L	include/pxa255.h	/^#define GAFR1_L	/;"	d
+GAFR1_U	include/pxa255.h	/^#define GAFR1_U	/;"	d
+GAFR2_L	include/pxa255.h	/^#define GAFR2_L	/;"	d
+GAFR2_U	include/pxa255.h	/^#define GAFR2_U	/;"	d
+GEDR	include/pxa255.h	/^#define GEDR(/;"	d
+GEDR0	include/pxa255.h	/^#define GEDR0	/;"	d
+GEDR1	include/pxa255.h	/^#define GEDR1	/;"	d
+GEDR2	include/pxa255.h	/^#define GEDR2	/;"	d
+GFER	include/pxa255.h	/^#define GFER(/;"	d
+GFER0	include/pxa255.h	/^#define GFER0	/;"	d
+GFER1	include/pxa255.h	/^#define GFER1	/;"	d
+GFER2	include/pxa255.h	/^#define GFER2	/;"	d
+GPCR	include/pxa255.h	/^#define GPCR(/;"	d
+GPCR0	include/pxa255.h	/^#define GPCR0	/;"	d
+GPCR1	include/pxa255.h	/^#define GPCR1	/;"	d
+GPCR2	include/pxa255.h	/^#define GPCR2	/;"	d
+GPDR	include/pxa255.h	/^#define GPDR(/;"	d
+GPDR0	include/pxa255.h	/^#define GPDR0	/;"	d
+GPDR1	include/pxa255.h	/^#define GPDR1	/;"	d
+GPDR2	include/pxa255.h	/^#define GPDR2	/;"	d
+GPIO01_RTS_MD	include/pxa255.h	/^#define GPIO01_RTS_MD	/;"	d
+GPIO06_MMCCLK_MD	include/pxa255.h	/^#define GPIO06_MMCCLK_MD	/;"	d
+GPIO08_48MHz_MD	include/pxa255.h	/^#define GPIO08_48MHz_MD	/;"	d
+GPIO08_MMCCS0_MD	include/pxa255.h	/^#define GPIO08_MMCCS0_MD	/;"	d
+GPIO09_MMCCS1_MD	include/pxa255.h	/^#define GPIO09_MMCCS1_MD	/;"	d
+GPIO10_RTCCLK	include/pxa255.h	/^#define GPIO10_RTCCLK	/;"	d
+GPIO10_RTCCLK_MD	include/pxa255.h	/^#define GPIO10_RTCCLK_MD	/;"	d
+GPIO11_3_6MHz	include/pxa255.h	/^#define GPIO11_3_6MHz	/;"	d
+GPIO11_3_6MHz_MD	include/pxa255.h	/^#define GPIO11_3_6MHz_MD	/;"	d
+GPIO12_32KHz	include/pxa255.h	/^#define GPIO12_32KHz	/;"	d
+GPIO12_32KHz_MD	include/pxa255.h	/^#define GPIO12_32KHz_MD	/;"	d
+GPIO13_MBGNT	include/pxa255.h	/^#define GPIO13_MBGNT	/;"	d
+GPIO13_MBGNT_MD	include/pxa255.h	/^#define GPIO13_MBGNT_MD	/;"	d
+GPIO14_MBREQ	include/pxa255.h	/^#define GPIO14_MBREQ	/;"	d
+GPIO14_MBREQ_MD	include/pxa255.h	/^#define GPIO14_MBREQ_MD	/;"	d
+GPIO15_nCS_1	include/pxa255.h	/^#define GPIO15_nCS_1	/;"	d
+GPIO15_nCS_1_MD	include/pxa255.h	/^#define GPIO15_nCS_1_MD	/;"	d
+GPIO16_PWM0	include/pxa255.h	/^#define GPIO16_PWM0	/;"	d
+GPIO16_PWM0_MD	include/pxa255.h	/^#define GPIO16_PWM0_MD	/;"	d
+GPIO17_PWM1	include/pxa255.h	/^#define GPIO17_PWM1	/;"	d
+GPIO17_PWM1_MD	include/pxa255.h	/^#define GPIO17_PWM1_MD	/;"	d
+GPIO18_RDY	include/pxa255.h	/^#define GPIO18_RDY	/;"	d
+GPIO18_RDY_MD	include/pxa255.h	/^#define GPIO18_RDY_MD	/;"	d
+GPIO19_DREQ1	include/pxa255.h	/^#define GPIO19_DREQ1	/;"	d
+GPIO19_DREQ1_MD	include/pxa255.h	/^#define GPIO19_DREQ1_MD	/;"	d
+GPIO1_RST	include/pxa255.h	/^#define GPIO1_RST	/;"	d
+GPIO20_DREQ0	include/pxa255.h	/^#define GPIO20_DREQ0	/;"	d
+GPIO20_DREQ0_MD	include/pxa255.h	/^#define GPIO20_DREQ0_MD	/;"	d
+GPIO23_SCLK	include/pxa255.h	/^#define GPIO23_SCLK	/;"	d
+GPIO23_SCLK_md	include/pxa255.h	/^#define GPIO23_SCLK_md	/;"	d
+GPIO24_SFRM	include/pxa255.h	/^#define GPIO24_SFRM	/;"	d
+GPIO24_SFRM_MD	include/pxa255.h	/^#define GPIO24_SFRM_MD	/;"	d
+GPIO25_STXD	include/pxa255.h	/^#define GPIO25_STXD	/;"	d
+GPIO25_STXD_MD	include/pxa255.h	/^#define GPIO25_STXD_MD	/;"	d
+GPIO26_SRXD	include/pxa255.h	/^#define GPIO26_SRXD	/;"	d
+GPIO26_SRXD_MD	include/pxa255.h	/^#define GPIO26_SRXD_MD	/;"	d
+GPIO27_SEXTCLK	include/pxa255.h	/^#define GPIO27_SEXTCLK	/;"	d
+GPIO27_SEXTCLK_MD	include/pxa255.h	/^#define GPIO27_SEXTCLK_MD	/;"	d
+GPIO28_BITCLK	include/pxa255.h	/^#define GPIO28_BITCLK	/;"	d
+GPIO28_BITCLK_AC97_MD	include/pxa255.h	/^#define GPIO28_BITCLK_AC97_MD	/;"	d
+GPIO28_BITCLK_I2S_MD	include/pxa255.h	/^#define GPIO28_BITCLK_I2S_MD	/;"	d
+GPIO29_SDATA_IN	include/pxa255.h	/^#define GPIO29_SDATA_IN	/;"	d
+GPIO29_SDATA_IN_AC97_MD	include/pxa255.h	/^#define GPIO29_SDATA_IN_AC97_MD	/;"	d
+GPIO29_SDATA_IN_I2S_MD	include/pxa255.h	/^#define GPIO29_SDATA_IN_I2S_MD	/;"	d
+GPIO30_SDATA_OUT	include/pxa255.h	/^#define GPIO30_SDATA_OUT	/;"	d
+GPIO30_SDATA_OUT_AC97_MD	include/pxa255.h	/^#define GPIO30_SDATA_OUT_AC97_MD	/;"	d
+GPIO30_SDATA_OUT_I2S_MD	include/pxa255.h	/^#define GPIO30_SDATA_OUT_I2S_MD	/;"	d
+GPIO31_SYNC	include/pxa255.h	/^#define GPIO31_SYNC	/;"	d
+GPIO31_SYNC_AC97_MD	include/pxa255.h	/^#define GPIO31_SYNC_AC97_MD	/;"	d
+GPIO31_SYNC_I2S_MD	include/pxa255.h	/^#define GPIO31_SYNC_I2S_MD	/;"	d
+GPIO32_SDATA_IN1	include/pxa255.h	/^#define GPIO32_SDATA_IN1	/;"	d
+GPIO32_SDATA_IN1_AC97_MD	include/pxa255.h	/^#define GPIO32_SDATA_IN1_AC97_MD	/;"	d
+GPIO33_nCS_5	include/pxa255.h	/^#define GPIO33_nCS_5	/;"	d
+GPIO33_nCS_5_MD	include/pxa255.h	/^#define GPIO33_nCS_5_MD	/;"	d
+GPIO34_FFRXD	include/pxa255.h	/^#define GPIO34_FFRXD	/;"	d
+GPIO34_FFRXD_MD	include/pxa255.h	/^#define GPIO34_FFRXD_MD	/;"	d
+GPIO34_MMCCS0	include/pxa255.h	/^#define GPIO34_MMCCS0	/;"	d
+GPIO34_MMCCS0_MD	include/pxa255.h	/^#define GPIO34_MMCCS0_MD	/;"	d
+GPIO35_FFCTS	include/pxa255.h	/^#define GPIO35_FFCTS	/;"	d
+GPIO35_FFCTS_MD	include/pxa255.h	/^#define GPIO35_FFCTS_MD	/;"	d
+GPIO36_FFDCD	include/pxa255.h	/^#define GPIO36_FFDCD	/;"	d
+GPIO36_FFDCD_MD	include/pxa255.h	/^#define GPIO36_FFDCD_MD	/;"	d
+GPIO37_FFDSR	include/pxa255.h	/^#define GPIO37_FFDSR	/;"	d
+GPIO37_FFDSR_MD	include/pxa255.h	/^#define GPIO37_FFDSR_MD	/;"	d
+GPIO38_FFRI	include/pxa255.h	/^#define GPIO38_FFRI	/;"	d
+GPIO38_FFRI_MD	include/pxa255.h	/^#define GPIO38_FFRI_MD	/;"	d
+GPIO39_FFTXD	include/pxa255.h	/^#define GPIO39_FFTXD	/;"	d
+GPIO39_FFTXD_MD	include/pxa255.h	/^#define GPIO39_FFTXD_MD	/;"	d
+GPIO39_MMCCS1	include/pxa255.h	/^#define GPIO39_MMCCS1	/;"	d
+GPIO39_MMCCS1_MD	include/pxa255.h	/^#define GPIO39_MMCCS1_MD	/;"	d
+GPIO40_FFDTR	include/pxa255.h	/^#define GPIO40_FFDTR	/;"	d
+GPIO40_FFDTR_MD	include/pxa255.h	/^#define GPIO40_FFDTR_MD	/;"	d
+GPIO41_FFRTS	include/pxa255.h	/^#define GPIO41_FFRTS	/;"	d
+GPIO41_FFRTS_MD	include/pxa255.h	/^#define GPIO41_FFRTS_MD	/;"	d
+GPIO42_BTRXD	include/pxa255.h	/^#define GPIO42_BTRXD	/;"	d
+GPIO42_BTRXD_MD	include/pxa255.h	/^#define GPIO42_BTRXD_MD	/;"	d
+GPIO43_BTTXD	include/pxa255.h	/^#define GPIO43_BTTXD	/;"	d
+GPIO43_BTTXD_MD	include/pxa255.h	/^#define GPIO43_BTTXD_MD	/;"	d
+GPIO44_BTCTS	include/pxa255.h	/^#define GPIO44_BTCTS	/;"	d
+GPIO44_BTCTS_MD	include/pxa255.h	/^#define GPIO44_BTCTS_MD	/;"	d
+GPIO45_BTRTS	include/pxa255.h	/^#define GPIO45_BTRTS	/;"	d
+GPIO45_BTRTS_MD	include/pxa255.h	/^#define GPIO45_BTRTS_MD	/;"	d
+GPIO46_ICPRXD	include/pxa255.h	/^#define GPIO46_ICPRXD	/;"	d
+GPIO46_ICPRXD_MD	include/pxa255.h	/^#define GPIO46_ICPRXD_MD	/;"	d
+GPIO46_STRXD	include/pxa255.h	/^#define GPIO46_STRXD	/;"	d
+GPIO46_STRXD_MD	include/pxa255.h	/^#define GPIO46_STRXD_MD	/;"	d
+GPIO47_ICPTXD	include/pxa255.h	/^#define GPIO47_ICPTXD	/;"	d
+GPIO47_ICPTXD_MD	include/pxa255.h	/^#define GPIO47_ICPTXD_MD	/;"	d
+GPIO47_STTXD	include/pxa255.h	/^#define GPIO47_STTXD	/;"	d
+GPIO47_STTXD_MD	include/pxa255.h	/^#define GPIO47_STTXD_MD	/;"	d
+GPIO48_nPOE	include/pxa255.h	/^#define GPIO48_nPOE	/;"	d
+GPIO48_nPOE_MD	include/pxa255.h	/^#define GPIO48_nPOE_MD	/;"	d
+GPIO49_nPWE	include/pxa255.h	/^#define GPIO49_nPWE	/;"	d
+GPIO49_nPWE_MD	include/pxa255.h	/^#define GPIO49_nPWE_MD	/;"	d
+GPIO50_nPIOR	include/pxa255.h	/^#define GPIO50_nPIOR	/;"	d
+GPIO50_nPIOR_MD	include/pxa255.h	/^#define GPIO50_nPIOR_MD	/;"	d
+GPIO51_nPIOW	include/pxa255.h	/^#define GPIO51_nPIOW	/;"	d
+GPIO51_nPIOW_MD	include/pxa255.h	/^#define GPIO51_nPIOW_MD	/;"	d
+GPIO52_nPCE_1	include/pxa255.h	/^#define GPIO52_nPCE_1	/;"	d
+GPIO52_nPCE_1_MD	include/pxa255.h	/^#define GPIO52_nPCE_1_MD	/;"	d
+GPIO53_MMCCLK	include/pxa255.h	/^#define GPIO53_MMCCLK	/;"	d
+GPIO53_MMCCLK_MD	include/pxa255.h	/^#define GPIO53_MMCCLK_MD	/;"	d
+GPIO53_nPCE_2	include/pxa255.h	/^#define GPIO53_nPCE_2	/;"	d
+GPIO53_nPCE_2_MD	include/pxa255.h	/^#define GPIO53_nPCE_2_MD	/;"	d
+GPIO54_MMCCLK	include/pxa255.h	/^#define GPIO54_MMCCLK	/;"	d
+GPIO54_MMCCLK_MD	include/pxa255.h	/^#define GPIO54_MMCCLK_MD	/;"	d
+GPIO54_pSKTSEL	include/pxa255.h	/^#define GPIO54_pSKTSEL	/;"	d
+GPIO54_pSKTSEL_MD	include/pxa255.h	/^#define GPIO54_pSKTSEL_MD	/;"	d
+GPIO55_nPREG	include/pxa255.h	/^#define GPIO55_nPREG	/;"	d
+GPIO55_nPREG_MD	include/pxa255.h	/^#define GPIO55_nPREG_MD	/;"	d
+GPIO56_nPWAIT	include/pxa255.h	/^#define GPIO56_nPWAIT	/;"	d
+GPIO56_nPWAIT_MD	include/pxa255.h	/^#define GPIO56_nPWAIT_MD	/;"	d
+GPIO57_nIOIS16	include/pxa255.h	/^#define GPIO57_nIOIS16	/;"	d
+GPIO57_nIOIS16_MD	include/pxa255.h	/^#define GPIO57_nIOIS16_MD	/;"	d
+GPIO58_LDD_0	include/pxa255.h	/^#define GPIO58_LDD_0	/;"	d
+GPIO58_LDD_0_MD	include/pxa255.h	/^#define GPIO58_LDD_0_MD	/;"	d
+GPIO59_LDD_1	include/pxa255.h	/^#define GPIO59_LDD_1	/;"	d
+GPIO59_LDD_1_MD	include/pxa255.h	/^#define GPIO59_LDD_1_MD	/;"	d
+GPIO60_LDD_2	include/pxa255.h	/^#define GPIO60_LDD_2	/;"	d
+GPIO60_LDD_2_MD	include/pxa255.h	/^#define GPIO60_LDD_2_MD	/;"	d
+GPIO61_LDD_3	include/pxa255.h	/^#define GPIO61_LDD_3	/;"	d
+GPIO61_LDD_3_MD	include/pxa255.h	/^#define GPIO61_LDD_3_MD	/;"	d
+GPIO62_LDD_4	include/pxa255.h	/^#define GPIO62_LDD_4	/;"	d
+GPIO62_LDD_4_MD	include/pxa255.h	/^#define GPIO62_LDD_4_MD	/;"	d
+GPIO63_LDD_5	include/pxa255.h	/^#define GPIO63_LDD_5	/;"	d
+GPIO63_LDD_5_MD	include/pxa255.h	/^#define GPIO63_LDD_5_MD	/;"	d
+GPIO64_LDD_6	include/pxa255.h	/^#define GPIO64_LDD_6	/;"	d
+GPIO64_LDD_6_MD	include/pxa255.h	/^#define GPIO64_LDD_6_MD	/;"	d
+GPIO65_LDD_7	include/pxa255.h	/^#define GPIO65_LDD_7	/;"	d
+GPIO65_LDD_7_MD	include/pxa255.h	/^#define GPIO65_LDD_7_MD	/;"	d
+GPIO66_LDD_8	include/pxa255.h	/^#define GPIO66_LDD_8	/;"	d
+GPIO66_LDD_8_MD	include/pxa255.h	/^#define GPIO66_LDD_8_MD	/;"	d
+GPIO66_MBREQ	include/pxa255.h	/^#define GPIO66_MBREQ	/;"	d
+GPIO66_MBREQ_MD	include/pxa255.h	/^#define GPIO66_MBREQ_MD	/;"	d
+GPIO67_LDD_9	include/pxa255.h	/^#define GPIO67_LDD_9	/;"	d
+GPIO67_LDD_9_MD	include/pxa255.h	/^#define GPIO67_LDD_9_MD	/;"	d
+GPIO67_MMCCS0	include/pxa255.h	/^#define GPIO67_MMCCS0	/;"	d
+GPIO67_MMCCS0_MD	include/pxa255.h	/^#define GPIO67_MMCCS0_MD	/;"	d
+GPIO68_LDD_10	include/pxa255.h	/^#define GPIO68_LDD_10	/;"	d
+GPIO68_LDD_10_MD	include/pxa255.h	/^#define GPIO68_LDD_10_MD	/;"	d
+GPIO68_MMCCS1	include/pxa255.h	/^#define GPIO68_MMCCS1	/;"	d
+GPIO68_MMCCS1_MD	include/pxa255.h	/^#define GPIO68_MMCCS1_MD	/;"	d
+GPIO69_LDD_11	include/pxa255.h	/^#define GPIO69_LDD_11	/;"	d
+GPIO69_LDD_11_MD	include/pxa255.h	/^#define GPIO69_LDD_11_MD	/;"	d
+GPIO69_MMCCLK	include/pxa255.h	/^#define GPIO69_MMCCLK	/;"	d
+GPIO69_MMCCLK_MD	include/pxa255.h	/^#define GPIO69_MMCCLK_MD	/;"	d
+GPIO6_MMCCLK	include/pxa255.h	/^#define GPIO6_MMCCLK	/;"	d
+GPIO70_LDD_12	include/pxa255.h	/^#define GPIO70_LDD_12	/;"	d
+GPIO70_LDD_12_MD	include/pxa255.h	/^#define GPIO70_LDD_12_MD	/;"	d
+GPIO70_RTCCLK	include/pxa255.h	/^#define GPIO70_RTCCLK	/;"	d
+GPIO70_RTCCLK_MD	include/pxa255.h	/^#define GPIO70_RTCCLK_MD	/;"	d
+GPIO71_3_6MHz	include/pxa255.h	/^#define GPIO71_3_6MHz	/;"	d
+GPIO71_3_6MHz_MD	include/pxa255.h	/^#define GPIO71_3_6MHz_MD	/;"	d
+GPIO71_LDD_13	include/pxa255.h	/^#define GPIO71_LDD_13	/;"	d
+GPIO71_LDD_13_MD	include/pxa255.h	/^#define GPIO71_LDD_13_MD	/;"	d
+GPIO72_32kHz	include/pxa255.h	/^#define GPIO72_32kHz	/;"	d
+GPIO72_32kHz_MD	include/pxa255.h	/^#define GPIO72_32kHz_MD	/;"	d
+GPIO72_LDD_14	include/pxa255.h	/^#define GPIO72_LDD_14	/;"	d
+GPIO72_LDD_14_MD	include/pxa255.h	/^#define GPIO72_LDD_14_MD	/;"	d
+GPIO73_LDD_15	include/pxa255.h	/^#define GPIO73_LDD_15	/;"	d
+GPIO73_LDD_15_MD	include/pxa255.h	/^#define GPIO73_LDD_15_MD	/;"	d
+GPIO73_MBGNT	include/pxa255.h	/^#define GPIO73_MBGNT	/;"	d
+GPIO73_MBGNT_MD	include/pxa255.h	/^#define GPIO73_MBGNT_MD	/;"	d
+GPIO74_LCD_FCLK	include/pxa255.h	/^#define GPIO74_LCD_FCLK	/;"	d
+GPIO74_LCD_FCLK_MD	include/pxa255.h	/^#define GPIO74_LCD_FCLK_MD	/;"	d
+GPIO75_LCD_LCLK	include/pxa255.h	/^#define GPIO75_LCD_LCLK	/;"	d
+GPIO75_LCD_LCLK_MD	include/pxa255.h	/^#define GPIO75_LCD_LCLK_MD	/;"	d
+GPIO76_LCD_PCLK	include/pxa255.h	/^#define GPIO76_LCD_PCLK	/;"	d
+GPIO76_LCD_PCLK_MD	include/pxa255.h	/^#define GPIO76_LCD_PCLK_MD	/;"	d
+GPIO77_LCD_ACBIAS	include/pxa255.h	/^#define GPIO77_LCD_ACBIAS	/;"	d
+GPIO77_LCD_ACBIAS_MD	include/pxa255.h	/^#define GPIO77_LCD_ACBIAS_MD	/;"	d
+GPIO78_nCS_2	include/pxa255.h	/^#define GPIO78_nCS_2	/;"	d
+GPIO78_nCS_2_MD	include/pxa255.h	/^#define GPIO78_nCS_2_MD	/;"	d
+GPIO79_nCS_3	include/pxa255.h	/^#define GPIO79_nCS_3	/;"	d
+GPIO79_nCS_3_MD	include/pxa255.h	/^#define GPIO79_nCS_3_MD	/;"	d
+GPIO80_nCS_4	include/pxa255.h	/^#define GPIO80_nCS_4	/;"	d
+GPIO80_nCS_4_MD	include/pxa255.h	/^#define GPIO80_nCS_4_MD	/;"	d
+GPIO8_48MHz	include/pxa255.h	/^#define GPIO8_48MHz	/;"	d
+GPIO8_MMCCS0	include/pxa255.h	/^#define GPIO8_MMCCS0	/;"	d
+GPIO9_MMCCS1	include/pxa255.h	/^#define GPIO9_MMCCS1	/;"	d
+GPIOInit	gpio.c	/^void GPIOInit(void)$/;"	f	typeref:typename:void
+GPIO_ALT_FN_1_IN	include/pxa255.h	/^#define GPIO_ALT_FN_1_IN	/;"	d
+GPIO_ALT_FN_1_OUT	include/pxa255.h	/^#define GPIO_ALT_FN_1_OUT	/;"	d
+GPIO_ALT_FN_2_IN	include/pxa255.h	/^#define GPIO_ALT_FN_2_IN	/;"	d
+GPIO_ALT_FN_2_OUT	include/pxa255.h	/^#define GPIO_ALT_FN_2_OUT	/;"	d
+GPIO_ALT_FN_3_IN	include/pxa255.h	/^#define GPIO_ALT_FN_3_IN	/;"	d
+GPIO_ALT_FN_3_OUT	include/pxa255.h	/^#define GPIO_ALT_FN_3_OUT	/;"	d
+GPIO_IN	include/pxa255.h	/^#define GPIO_IN	/;"	d
+GPIO_MD_MASK_DIR	include/pxa255.h	/^#define GPIO_MD_MASK_DIR	/;"	d
+GPIO_MD_MASK_FN	include/pxa255.h	/^#define GPIO_MD_MASK_FN	/;"	d
+GPIO_MD_MASK_NR	include/pxa255.h	/^#define GPIO_MD_MASK_NR	/;"	d
+GPIO_OUT	include/pxa255.h	/^#define GPIO_OUT	/;"	d
+GPIO_SetLED	gpio.c	/^void  GPIO_SetLED( int LedIndex, int value )$/;"	f	typeref:typename:void
+GPIO_bit	include/pxa255.h	/^#define GPIO_bit(/;"	d
+GPLR	include/pxa255.h	/^#define GPLR(/;"	d
+GPLR0	include/pxa255.h	/^#define GPLR0	/;"	d
+GPLR1	include/pxa255.h	/^#define GPLR1	/;"	d
+GPLR2	include/pxa255.h	/^#define GPLR2	/;"	d
+GPSR	include/pxa255.h	/^#define GPSR(/;"	d
+GPSR0	include/pxa255.h	/^#define GPSR0	/;"	d
+GPSR1	include/pxa255.h	/^#define GPSR1	/;"	d
+GPSR2	include/pxa255.h	/^#define GPSR2	/;"	d
+GRER	include/pxa255.h	/^#define GRER(/;"	d
+GRER0	include/pxa255.h	/^#define GRER0	/;"	d
+GRER1	include/pxa255.h	/^#define GRER1	/;"	d
+GRER2	include/pxa255.h	/^#define GRER2	/;"	d
+GS	include/stdio.h	/^#define        GS /;"	d
+HIS_MAX	printf.c	/^#define HIS_MAX /;"	d	file:
+HT	include/stdio.h	/^#define        HT /;"	d
+HisBuff	printf.c	/^char HisBuff[HIS_MAX][32] = { {0,}, };$/;"	v	typeref:typename:char[][32]
+HisCount	printf.c	/^int  HisCount               = 0;$/;"	v	typeref:typename:int
+HisIndex	printf.c	/^int  HisIndex               = 0;$/;"	v	typeref:typename:int
+ICCR	include/pxa255.h	/^#define ICCR	/;"	d
+ICCR0	include/pxa255.h	/^#define ICCR0	/;"	d
+ICCR1	include/pxa255.h	/^#define ICCR1	/;"	d
+ICCR2	include/pxa255.h	/^#define ICCR2	/;"	d
+ICDR	include/pxa255.h	/^#define ICDR	/;"	d
+ICFP	include/pxa255.h	/^#define ICFP	/;"	d
+ICIP	include/pxa255.h	/^#define ICIP	/;"	d
+ICLR	include/pxa255.h	/^#define ICLR	/;"	d
+ICMR	include/pxa255.h	/^#define ICMR	/;"	d
+ICPR	include/pxa255.h	/^#define ICPR	/;"	d
+ICSR0	include/pxa255.h	/^#define ICSR0	/;"	d
+ICSR1	include/pxa255.h	/^#define ICSR1	/;"	d
+IER_DMAE	include/pxa255.h	/^#define IER_DMAE	/;"	d
+IER_MIE	include/pxa255.h	/^#define IER_MIE	/;"	d
+IER_NRZE	include/pxa255.h	/^#define IER_NRZE	/;"	d
+IER_RAVIE	include/pxa255.h	/^#define IER_RAVIE	/;"	d
+IER_RLSE	include/pxa255.h	/^#define IER_RLSE	/;"	d
+IER_RTIOE	include/pxa255.h	/^#define IER_RTIOE	/;"	d
+IER_TIE	include/pxa255.h	/^#define IER_TIE	/;"	d
+IER_UUE	include/pxa255.h	/^#define IER_UUE	/;"	d
+IIR_FIFOES0	include/pxa255.h	/^#define IIR_FIFOES0	/;"	d
+IIR_FIFOES1	include/pxa255.h	/^#define IIR_FIFOES1	/;"	d
+IIR_IID1	include/pxa255.h	/^#define IIR_IID1	/;"	d
+IIR_IID2	include/pxa255.h	/^#define IIR_IID2	/;"	d
+IIR_IP	include/pxa255.h	/^#define IIR_IP	/;"	d
+IIR_TOD	include/pxa255.h	/^#define IIR_TOD	/;"	d
+IrSR_IR_RECEIVE_ON	include/pxa255.h	/^#define IrSR_IR_RECEIVE_ON /;"	d
+IrSR_IR_TRANSMIT_ON	include/pxa255.h	/^#define IrSR_IR_TRANSMIT_ON /;"	d
+IrSR_OFFSET	include/pxa255.h	/^#define IrSR_OFFSET /;"	d
+IrSR_RCVEIR_IR_MODE	include/pxa255.h	/^#define IrSR_RCVEIR_IR_MODE /;"	d
+IrSR_RCVEIR_UART_MODE	include/pxa255.h	/^#define IrSR_RCVEIR_UART_MODE /;"	d
+IrSR_RXPL_NEG_IS_ZERO	include/pxa255.h	/^#define IrSR_RXPL_NEG_IS_ZERO /;"	d
+IrSR_RXPL_POS_IS_ZERO	include/pxa255.h	/^#define IrSR_RXPL_POS_IS_ZERO /;"	d
+IrSR_TXPL_NEG_IS_ZERO	include/pxa255.h	/^#define IrSR_TXPL_NEG_IS_ZERO /;"	d
+IrSR_TXPL_POS_IS_ZERO	include/pxa255.h	/^#define IrSR_TXPL_POS_IS_ZERO /;"	d
+IrSR_XMITIR_IR_MODE	include/pxa255.h	/^#define IrSR_XMITIR_IR_MODE /;"	d
+IrSR_XMITIR_UART_MODE	include/pxa255.h	/^#define IrSR_XMITIR_UART_MODE /;"	d
+IrSR_XMODE_PULSE_1_6	include/pxa255.h	/^#define IrSR_XMODE_PULSE_1_6 /;"	d
+IrSR_XMODE_PULSE_3_16	include/pxa255.h	/^#define IrSR_XMODE_PULSE_3_16 /;"	d
+LARGE	include/stdio.h	/^#define LARGE	/;"	d
+LCR_DLAB	include/pxa255.h	/^#define LCR_DLAB	/;"	d
+LCR_EPS	include/pxa255.h	/^#define LCR_EPS	/;"	d
+LCR_PEN	include/pxa255.h	/^#define LCR_PEN	/;"	d
+LCR_SB	include/pxa255.h	/^#define LCR_SB	/;"	d
+LCR_STB	include/pxa255.h	/^#define LCR_STB	/;"	d
+LCR_STKYP	include/pxa255.h	/^#define LCR_STKYP	/;"	d
+LCR_WLS0	include/pxa255.h	/^#define LCR_WLS0	/;"	d
+LCR_WLS1	include/pxa255.h	/^#define LCR_WLS1	/;"	d
+LD	Makefile	/^LD = arm-linux-ld$/;"	m
+LDFLAGS	Makefile	/^LDFLAGS	= -static -nostdlib -nostartfiles -nodefaultlibs -p -X -T .\/main-ld-script$/;"	m
+LED_0	include/gpio.h	/^#define	LED_0	/;"	d
+LED_1	include/gpio.h	/^#define	LED_1	/;"	d
+LED_2	include/gpio.h	/^#define	LED_2	/;"	d
+LED_3	include/gpio.h	/^#define	LED_3	/;"	d
+LED_OFF	include/gpio.h	/^#define	LED_OFF	/;"	d
+LED_ON	include/gpio.h	/^#define	LED_ON	/;"	d
+LEFT	include/stdio.h	/^#define LEFT	/;"	d
+LF	include/stdio.h	/^#define        LF /;"	d
+LSR_BI	include/pxa255.h	/^#define LSR_BI	/;"	d
+LSR_DR	include/pxa255.h	/^#define LSR_DR	/;"	d
+LSR_FE	include/pxa255.h	/^#define LSR_FE	/;"	d
+LSR_FIFOE	include/pxa255.h	/^#define LSR_FIFOE	/;"	d
+LSR_OE	include/pxa255.h	/^#define LSR_OE	/;"	d
+LSR_PE	include/pxa255.h	/^#define LSR_PE	/;"	d
+LSR_TDRQ	include/pxa255.h	/^#define LSR_TDRQ	/;"	d
+LSR_TEMT	include/pxa255.h	/^#define LSR_TEMT	/;"	d
+Ldiv0	lib1funcs.S	/^Ldiv0:$/;"	l
+Lgot_result_divsi3	lib1funcs.S	/^Lgot_result_divsi3:$/;"	l
+Lgot_result_modsi3	lib1funcs.S	/^Lgot_result_modsi3:$/;"	l
+Lgot_result_udivsi3	lib1funcs.S	/^Lgot_result_udivsi3:$/;"	l
+LowerStr	string.c	/^void LowerStr( char *Str )$/;"	f	typeref:typename:void
+MCR_DTR	include/pxa255.h	/^#define MCR_DTR	/;"	d
+MCR_LOOP	include/pxa255.h	/^#define MCR_LOOP	/;"	d
+MCR_OUT1	include/pxa255.h	/^#define MCR_OUT1	/;"	d
+MCR_OUT2	include/pxa255.h	/^#define MCR_OUT2	/;"	d
+MCR_RTS	include/pxa255.h	/^#define MCR_RTS	/;"	d
+MSR_CTS	include/pxa255.h	/^#define MSR_CTS	/;"	d
+MSR_DCD	include/pxa255.h	/^#define MSR_DCD	/;"	d
+MSR_DCTS	include/pxa255.h	/^#define MSR_DCTS	/;"	d
+MSR_DDCD	include/pxa255.h	/^#define MSR_DDCD	/;"	d
+MSR_DDSR	include/pxa255.h	/^#define MSR_DDSR	/;"	d
+MSR_DSR	include/pxa255.h	/^#define MSR_DSR	/;"	d
+MSR_RI	include/pxa255.h	/^#define MSR_RI	/;"	d
+MSR_TERI	include/pxa255.h	/^#define MSR_TERI	/;"	d
+NAK	include/stdio.h	/^#define        NAK /;"	d
+NUL	include/stdio.h	/^#define        NUL /;"	d
+NULL	include/stdio.h	/^#define NULL /;"	d
+OC	Makefile	/^OC = arm-linux-objcopy$/;"	m
+OCFLAGS	Makefile	/^OCFLAGS	= -O binary -R .note -R .comment -S$/;"	m
+OIER	include/pxa255.h	/^#define OIER	/;"	d
+OIER_E0	include/pxa255.h	/^#define OIER_E0	/;"	d
+OIER_E1	include/pxa255.h	/^#define OIER_E1	/;"	d
+OIER_E2	include/pxa255.h	/^#define OIER_E2	/;"	d
+OIER_E3	include/pxa255.h	/^#define OIER_E3	/;"	d
+OSCR	include/pxa255.h	/^#define OSCR	/;"	d
+OSMR0	include/pxa255.h	/^#define OSMR0	/;"	d
+OSMR1	include/pxa255.h	/^#define OSMR1	/;"	d
+OSMR2	include/pxa255.h	/^#define OSMR2	/;"	d
+OSMR3	include/pxa255.h	/^#define OSMR3	/;"	d
+OSSR	include/pxa255.h	/^#define OSSR	/;"	d
+OSSR_M0	include/pxa255.h	/^#define OSSR_M0	/;"	d
+OSSR_M1	include/pxa255.h	/^#define OSSR_M1	/;"	d
+OSSR_M2	include/pxa255.h	/^#define OSSR_M2	/;"	d
+OSSR_M3	include/pxa255.h	/^#define OSSR_M3	/;"	d
+OWER	include/pxa255.h	/^#define OWER	/;"	d
+OWER_WME	include/pxa255.h	/^#define OWER_WME	/;"	d
+PLUS	include/stdio.h	/^#define PLUS	/;"	d
+PSSR	include/pxa255.h	/^#define PSSR /;"	d
+PSSR_BFS	include/pxa255.h	/^#define PSSR_BFS /;"	d
+PSSR_PH	include/pxa255.h	/^#define PSSR_PH /;"	d
+PSSR_RDH	include/pxa255.h	/^#define PSSR_RDH /;"	d
+PSSR_SSS	include/pxa255.h	/^#define PSSR_SSS /;"	d
+PSSR_VFS	include/pxa255.h	/^#define PSSR_VFS /;"	d
+PXA_CS0_PHYS	include/pxa255.h	/^#define PXA_CS0_PHYS	/;"	d
+PXA_CS1_PHYS	include/pxa255.h	/^#define PXA_CS1_PHYS	/;"	d
+PXA_CS2_PHYS	include/pxa255.h	/^#define PXA_CS2_PHYS	/;"	d
+PXA_CS3_PHYS	include/pxa255.h	/^#define PXA_CS3_PHYS	/;"	d
+PXA_CS4_PHYS	include/pxa255.h	/^#define PXA_CS4_PHYS	/;"	d
+PXA_CS5_PHYS	include/pxa255.h	/^#define PXA_CS5_PHYS	/;"	d
+Quad	include/pxa255.h	/^typedef Word            Quad [4] ;$/;"	t	typeref:typename:Word[4]
+RET	lib1funcs.S	/^#define RET	/;"	d	file:
+RETCOND	lib1funcs.S	/^#define RETCOND$/;"	d	file:
+RETc	lib1funcs.S	/^#define RETc(/;"	d	file:
+RS	include/stdio.h	/^#define        RS /;"	d
+ReloadTimer	time.c	/^void    ReloadTimer( unsigned char bTimer, unsigned int msec )$/;"	f	typeref:typename:void
+SI	include/stdio.h	/^#define        SI /;"	d
+SIGN	include/stdio.h	/^#define SIGN	/;"	d
+SO	include/stdio.h	/^#define        SO /;"	d
+SOH	include/stdio.h	/^#define        SOH /;"	d
+SPACE	include/stdio.h	/^#define SPACE	/;"	d
+SPECIAL	include/stdio.h	/^#define SPECIAL	/;"	d
+STDLH	include/pxa255.h	/^#define STDLH	/;"	d
+STDLL	include/pxa255.h	/^#define STDLL	/;"	d
+STFCR	include/pxa255.h	/^#define STFCR	/;"	d
+STIER	include/pxa255.h	/^#define STIER	/;"	d
+STIIR	include/pxa255.h	/^#define STIIR	/;"	d
+STISR	include/pxa255.h	/^#define STISR	/;"	d
+STLCR	include/pxa255.h	/^#define STLCR	/;"	d
+STLSR	include/pxa255.h	/^#define STLSR	/;"	d
+STMCR	include/pxa255.h	/^#define STMCR	/;"	d
+STMSR	include/pxa255.h	/^#define STMSR	/;"	d
+STRBR	include/pxa255.h	/^#define STRBR	/;"	d
+STSPR	include/pxa255.h	/^#define STSPR	/;"	d
+STTHR	include/pxa255.h	/^#define STTHR	/;"	d
+STUART	include/pxa255.h	/^#define STUART	/;"	d
+STX	include/stdio.h	/^#define        STX /;"	d
+SUB	include/stdio.h	/^#define        SUB /;"	d
+SYN	include/stdio.h	/^#define        SYN /;"	d
+SerialErrorFlag	serial.c	/^static int SerialErrorFlag = 0;$/;"	v	typeref:typename:int	file:
+SerialIsClearError	serial.c	/^char SerialIsClearError( void )$/;"	f	typeref:typename:char
+SerialIsGetChar	serial.c	/^char SerialIsGetChar( void )$/;"	f	typeref:typename:char
+SerialIsGetError	serial.c	/^int SerialIsGetError( void )$/;"	f	typeref:typename:int
+SerialIsReadyChar	serial.c	/^int SerialIsReadyChar( void )$/;"	f	typeref:typename:int
+SerialOutChar	serial.c	/^void SerialOutChar( const char c  )$/;"	f	typeref:typename:void
+SerialOutChar_CheckCR	serial.c	/^void SerialOutChar_CheckCR( const char c  )$/;"	f	typeref:typename:void
+SerialOutStr	serial.c	/^int SerialOutStr( char *str, int size )$/;"	f	typeref:typename:int
+SerialOutStr_CheckCR	serial.c	/^int SerialOutStr_CheckCR( char *str, int size )$/;"	f	typeref:typename:int
+SeriallGet_LSR	serial.c	/^int SeriallGet_LSR( void )$/;"	f	typeref:typename:int
+SetWatchdog	time.c	/^void	SetWatchdog( int msec )$/;"	f	typeref:typename:void
+TICKS_PER_SECOND	include/time.h	/^#define TICKS_PER_SECOND /;"	d
+TRUE	include/stdio.h	/^#define TRUE /;"	d
+TimeOverflow	time.c	/^int     TimeOverflow( unsigned char bTimer )$/;"	f	typeref:typename:int
+TimerClearOverflow	time.c	/^void TimerClearOverflow(void)$/;"	f	typeref:typename:void
+TimerDetectOverflow	time.c	/^int TimerDetectOverflow(void)$/;"	f	typeref:typename:int
+TimerGetTime	time.c	/^unsigned int  TimerGetTime(void)$/;"	f	typeref:typename:unsigned int
+TimerInit	time.c	/^void TimerInit(void)$/;"	f	typeref:typename:void
+UART	serial.c	/^static volatile Word *UART = (volatile Word *) FFUART;$/;"	v	typeref:typename:volatile Word *	file:
+UART	serial.c	/^static volatile Word *UART = (volatile Word *) STUART; \/\/ UART 베이스 어드레스 $/;"	v	typeref:typename:volatile Word *	file:
+UART_DATA	serial.c	/^#define UART_DATA /;"	d	file:
+UART_DLH	serial.c	/^#define UART_DLH /;"	d	file:
+UART_DLL	serial.c	/^#define UART_DLL	/;"	d	file:
+UART_FCR	serial.c	/^#define UART_FCR	/;"	d	file:
+UART_IER	serial.c	/^#define UART_IER	/;"	d	file:
+UART_ISR	serial.c	/^#define UART_ISR	/;"	d	file:
+UART_LCR	serial.c	/^#define UART_LCR	/;"	d	file:
+UART_LSR	serial.c	/^#define UART_LSR	/;"	d	file:
+UART_MCR	serial.c	/^#define UART_MCR	/;"	d	file:
+UART_MSR	serial.c	/^#define UART_MSR	/;"	d	file:
+UART_SPR	serial.c	/^#define UART_SPR	/;"	d	file:
+UData	include/pxa255.h	/^#define UData(/;"	d
+US	include/stdio.h	/^#define        US /;"	d
+UpperStr	string.c	/^void UpperStr( char *Str )$/;"	f	typeref:typename:void
+VT	include/stdio.h	/^#define        VT /;"	d
+Word	include/pxa255.h	/^typedef Word32          Word ;$/;"	t	typeref:typename:Word32
+Word16	include/pxa255.h	/^typedef unsigned short  Word16 ;$/;"	t	typeref:typename:unsigned short
+Word32	include/pxa255.h	/^typedef unsigned int    Word32 ;$/;"	t	typeref:typename:unsigned int
+ZEROPAD	include/stdio.h	/^#define ZEROPAD	/;"	d
+_C	include/stdio.h	/^#define _C	/;"	d
+_D	include/stdio.h	/^#define _D	/;"	d
+_GPIO_HEADER_	include/gpio.h	/^#define _GPIO_HEADER_$/;"	d
+_L	include/stdio.h	/^#define _L	/;"	d
+_P	include/stdio.h	/^#define _P	/;"	d
+_PXA255_HEADER_	include/pxa255.h	/^#define _PXA255_HEADER_$/;"	d
+_S	include/stdio.h	/^#define _S	/;"	d
+_SERIAL_HEADER_	include/serial.h	/^#define _SERIAL_HEADER_$/;"	d
+_SP	include/stdio.h	/^#define _SP	/;"	d
+_STDARG_HEADER_	include/stdarg.h	/^#define _STDARG_HEADER_$/;"	d
+_STDIO__HEADER_	include/stdio.h	/^#define _STDIO__HEADER_$/;"	d
+_STRING_HEADER_	include/string.h	/^#define _STRING_HEADER_$/;"	d
+_TIME_HEADER_	include/time.h	/^#define _TIME_HEADER_$/;"	d
+_U	include/stdio.h	/^#define _U	/;"	d
+_X	include/stdio.h	/^#define _X	/;"	d
+__REG	include/pxa255.h	/^#define __REG(/;"	d
+__REG	serial.c	/^#define __REG(/;"	d	file:
+__REG2	include/pxa255.h	/^#define __REG2(/;"	d
+___strtok	string.c	/^char * ___strtok;$/;"	v	typeref:typename:char *
+__anon5287b92e0103	include/serial.h	/^{ $/;"	g
+__divsi3	lib1funcs.S	/^__divsi3:$/;"	l
+__ismask	include/stdio.h	/^#define __ismask(/;"	d
+__kernel_mode_t	include/stdio.h	/^typedef unsigned short		__kernel_mode_t;$/;"	t	typeref:typename:unsigned short
+__kernel_size_t	include/stdio.h	/^typedef unsigned int		__kernel_size_t;$/;"	t	typeref:typename:unsigned int
+__kernel_time_t	include/stdio.h	/^typedef long		        __kernel_time_t;$/;"	t	typeref:typename:long
+__modsi3	lib1funcs.S	/^__modsi3:$/;"	l
+__tolower	include/stdio.h	/^static inline unsigned char __tolower(unsigned char c)$/;"	f	typeref:typename:unsigned char
+__toupper	include/stdio.h	/^static inline unsigned char __toupper(unsigned char c)$/;"	f	typeref:typename:unsigned char
+__udivsi3	lib1funcs.S	/^__udivsi3:$/;"	l
+__umodsi3	lib1funcs.S	/^__umodsi3:$/;"	l
+_ctype	vsprintf.c	/^unsigned char _ctype[] = {$/;"	v	typeref:typename:unsigned char[]
+_ram_entry	entry.S	/^_ram_entry:$/;"	l
+all	Makefile	/^all: navilnux.c$/;"	t
+bcopy	string.c	/^char * bcopy(const char * src, char * dest, int count)$/;"	f	typeref:typename:char *
+clean	Makefile	/^clean:$/;"	t
+curbit	lib1funcs.S	/^curbit		.req	r3$/;"	l
+dividend	lib1funcs.S	/^dividend	.req	r0$/;"	l
+divisor	lib1funcs.S	/^divisor		.req	r1$/;"	l
+do_div	include/stdio.h	/^#define do_div(/;"	d
+eBauds	include/serial.h	/^} eBauds;$/;"	t	typeref:enum:__anon5287b92e0103
+getc	printf.c	/^int getc(void)$/;"	f	typeref:typename:int
+getc_timed	printf.c	/^int     getc_timed( char cmpKey, int mTimeOver )$/;"	f	typeref:typename:int
+gets	printf.c	/^int gets(char *s)$/;"	f	typeref:typename:int
+gets_his	printf.c	/^int gets_his(char *s)$/;"	f	typeref:typename:int
+halfsec	printf.c	/^#define halfsec /;"	d	file:
+his_append	printf.c	/^int his_append(char *s)$/;"	f	typeref:typename:int
+his_set	printf.c	/^int his_set(char *s, int index )$/;"	f	typeref:typename:int
+io_p2v	include/pxa255.h	/^#define io_p2v(/;"	d
+irqDisable	navilnux.c	/^void irqDisable(void)$/;"	f	typeref:typename:void
+irqEnable	navilnux.c	/^void irqEnable(void)$/;"	f	typeref:typename:void
+irqHandler	navilnux.c	/^void irqHandler(void)$/;"	f	typeref:typename:void
+irq_stack	entry.S	/^#define irq_stack	/;"	d	file:
+isalnum	include/stdio.h	/^#define isalnum(/;"	d
+isalpha	include/stdio.h	/^#define isalpha(/;"	d
+isascii	include/stdio.h	/^#define isascii(/;"	d
+iscntrl	include/stdio.h	/^#define iscntrl(/;"	d
+isdigit	include/stdio.h	/^#define isdigit(/;"	d
+isgraph	include/stdio.h	/^#define isgraph(/;"	d
+islower	include/stdio.h	/^#define islower(/;"	d
+isprint	include/stdio.h	/^#define isprint(/;"	d
+ispunct	include/stdio.h	/^#define ispunct(/;"	d
+isspace	include/stdio.h	/^#define isspace(/;"	d
+isupper	include/stdio.h	/^#define isupper(/;"	d
+isxdigit	include/stdio.h	/^#define isxdigit(/;"	d
+kernel_init	entry.S	/^kernel_init:$/;"	l
+main	navilnux.c	/^int main(void)$/;"	f	typeref:typename:int
+memchr	string.c	/^void *memchr(const void *s, int c, size_t n)$/;"	f	typeref:typename:void *
+memcmp	string.c	/^int memcmp(const void * cs,const void * ct,size_t count)$/;"	f	typeref:typename:int
+memcpy	string.c	/^void * memcpy(void * dest,const void *src,size_t count)$/;"	f	typeref:typename:void *
+memmove	string.c	/^void * memmove(void * dest,const void *src,size_t count)$/;"	f	typeref:typename:void *
+memscan	string.c	/^void * memscan(void * addr, int c, size_t size)$/;"	f	typeref:typename:void *
+memset	string.c	/^void * memset(void * s,int c,size_t count)$/;"	f	typeref:typename:void *
+mode_t	include/stdio.h	/^typedef __kernel_mode_t		mode_t;$/;"	t	typeref:typename:__kernel_mode_t
+msleep	time.c	/^void 	msleep(unsigned int msec)$/;"	f	typeref:typename:void
+navilnux_irqHandler	entry.S	/^navilnux_irqHandler:$/;"	l
+navilnux_swiHandler	entry.S	/^navilnux_swiHandler:$/;"	l
+numOverflows	time.c	/^static int numOverflows;$/;"	v	typeref:typename:int	file:
+number	vsprintf.c	/^static char * number(char * str, long long num, int base, int size, int precision, int type)$/;"	f	typeref:typename:char *	file:
+osTimerInit	navilnux.c	/^void osTimerInit(void)$/;"	f	typeref:typename:void
+osTimerStart	navilnux.c	/^void osTimerStart(void)$/;"	f	typeref:typename:void
+overdone	lib1funcs.S	/^overdone    .req    r2$/;"	l
+printf	printf.c	/^int printf(const char *fmt, ...)$/;"	f	typeref:typename:int
+putc	printf.c	/^int putc(char c)$/;"	f	typeref:typename:int
+putx	printf.c	/^int putx(char c)$/;"	f	typeref:typename:int
+result	lib1funcs.S	/^result		.req	r2$/;"	l
+set_GPIO_mode	gpio.c	/^void set_GPIO_mode(int gpio_mode)$/;"	f	typeref:typename:void
+size_t	include/stdio.h	/^typedef __kernel_size_t		size_t;$/;"	t	typeref:typename:__kernel_size_t
+skip_atoi	vsprintf.c	/^static int skip_atoi(const char **s)$/;"	f	typeref:typename:int	file:
+sprintf	vsprintf.c	/^int sprintf(char * buf, const char *fmt, ...)$/;"	f	typeref:typename:int
+strcat	string.c	/^char * strcat(char * dest, const char * src)$/;"	f	typeref:typename:char *
+strchr	string.c	/^char * strchr(const char * s, int c)$/;"	f	typeref:typename:char *
+strcmp	string.c	/^int strcmp(const char * cs,const char * ct)$/;"	f	typeref:typename:int
+strcpy	string.c	/^char * strcpy(char * dest,const char *src)$/;"	f	typeref:typename:char *
+strlen	string.c	/^size_t strlen(const char * s)$/;"	f	typeref:typename:size_t
+strncat	string.c	/^char * strncat(char *dest, const char *src, size_t count)$/;"	f	typeref:typename:char *
+strncmp	string.c	/^int strncmp(const char * cs,const char * ct,size_t count)$/;"	f	typeref:typename:int
+strncpy	string.c	/^char * strncpy(char * dest,const char *src,size_t count)$/;"	f	typeref:typename:char *
+strnicmp	string.c	/^int strnicmp(const char *s1, const char *s2, size_t len)$/;"	f	typeref:typename:int
+strnlen	string.c	/^size_t strnlen(const char * s, size_t count)$/;"	f	typeref:typename:size_t
+strpbrk	string.c	/^char * strpbrk(const char * cs,const char * ct)$/;"	f	typeref:typename:char *
+strrchr	string.c	/^char * strrchr(const char * s, int c)$/;"	f	typeref:typename:char *
+strsep	string.c	/^char * strsep(char **s, const char *ct)$/;"	f	typeref:typename:char *
+strspn	string.c	/^size_t strspn(const char *s, const char *accept)$/;"	f	typeref:typename:size_t
+strstr	string.c	/^char * strstr(const char * s1,const char * s2)$/;"	f	typeref:typename:char *
+strtok	string.c	/^char * strtok(char * s,const char * ct)$/;"	f	typeref:typename:char *
+strtoul	string.c	/^unsigned long strtoul(const char *p, char **out_p, int base)$/;"	f	typeref:typename:unsigned long
+swiHandler	navilnux.c	/^void swiHandler(unsigned int syscallnum)$/;"	f	typeref:typename:void
+time_t	include/stdio.h	/^typedef __kernel_time_t		time_t;$/;"	t	typeref:typename:__kernel_time_t
+toascii	include/stdio.h	/^#define toascii(/;"	d
+tolower	include/stdio.h	/^#define tolower(/;"	d
+toupper	include/stdio.h	/^#define toupper(/;"	d
+va_arg	include/stdarg.h	/^#  define va_arg(/;"	d
+va_end	include/stdarg.h	/^#  define va_end(/;"	d
+va_list	include/stdarg.h	/^typedef char *va_list;$/;"	t	typeref:typename:char *
+va_start	include/stdarg.h	/^#  define va_start(/;"	d
+vsprintf	vsprintf.c	/^int vsprintf(char *buf, const char *fmt, va_list args)$/;"	f	typeref:typename:int
